@@ -1,0 +1,184 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	display: inline-block;
+	background-color: white;
+	width: 1366px;
+	height: 1000px;
+
+}
+.topbar{
+	width: 1366px;
+	height: 84px;
+	background-color: #29487d;
+	color: #fff;
+}
+.a{
+    padding: 17px;
+    margin-left: 163px;
+    font-size: 25px;
+    font-family: arial;
+}
+.user{
+	float: right;
+
+}
+.b{
+margin-left: 800px;
+color: white;
+margin-top: -70px;
+ margin-right: 423px;
+ font-family: arial;
+   
+}
+.c{
+margin-left: 800px;
+ margin-right: 423px;
+}
+.d{
+margin-left: 800px;
+color: white;
+margin-left: 1004px;
+    margin-top: -41px;
+    font-family: arial;
+}
+.e{
+margin-left: 800px;
+margin-left: 1003px;
+}
+.f{
+margin-left: 800px;
+color: white;
+margin-left: 1005px;
+font-family: arial;
+}
+.g{
+	float: right;
+	margin-right: 153px;
+	margin-left: 1201px;
+	width: 48px;
+    height: 19px;
+    background-color:#29487d;
+    color: white; 
+    margin-top: -41px; 	
+}
+.h{
+	margin: 49px;
+    margin-left: 175px;
+}
+.i{
+	    margin-left: 165px;
+    margin-top: -46px;
+
+    }.ab{
+font-size: 45px;
+margin-left: 720px;
+    margin-top: -269px;
+    font-family: arial;
+    }
+    .ac{
+font-size: 20px;
+margin-left: 754px;
+    margin-top: 7px;
+    }
+    .name1{
+    	
+    	width: 200px;
+    margin-left: 715px;
+    height: 26px;
+    border-radius: 5px;
+    padding: 10px;
+    }
+    .name2{
+    	width: 200px;
+    margin-left: 15px;
+    height: 26px;
+    border-radius: 5px;
+    padding: 10px;
+    }
+    .email{
+    	margin-left: 720px;
+    width: 442px;
+    height: 26px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 13px;
+    }
+    .password{
+    	margin-left: 720px;
+    width: 442px;
+    height: 26px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 13px;
+    }
+    .DOB
+    {
+    	margin-left: 722px;
+    margin-top: 13px;
+    font-size: 20px;
+    }
+    .aaa{
+    	margin-left: 722px;
+    	width: 82px;
+    height: 44px;
+    padding: 3px;
+    border-radius: 5px;
+
+    }
+    .bbb
+    {
+width: 82px;
+    height: 44px;
+    padding: 3px;
+    border-radius: 5px;
+    }
+    .ccc
+    {
+width: 82px;
+    height: 44px;
+    padding: 3px;
+    border-radius: 5px;
+    }
+    .gender{
+    	margin-left: 722px;
+    margin-top: 13px;
+    font-size: 20px;
+    }
+    .radio{
+    	margin-left: 722px;
+    	margin-top: 10px;
+    font-size: 26px;
+    }
+    .abcd{
+width: 37px;
+    height: 18px;
+    }
+    .efgh{
+width: 37px;
+    height: 18px;
+    }
+    .ijkl{
+width: 37px;
+    height: 18px;
+    }
+    .p{
+    	margin-left: 722px;
+    	margin-top: 16px;
+    font-size: 13px;
+    }
+    .sign{
+    	margin-left: 722px;
+    	width: 194px;
+    height: 40px;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 47px;
+    background-color: #67ae55;
+    color: white;
+    border-color:#52b323;
+    font-size: 20px;
+    font-family: auto;
+    }
